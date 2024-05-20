@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972664819580",
+    "project_id": "e-commerceapp-cadad",
+    "storage_bucket": "e-commerceapp-cadad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972664819580:android:3aefc49055a8b551429ef9",
+        "android_client_info": {
+          "package_name": "com.spark.e_commerce_shopping_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnKP4HTbWIcea6wJZiriE-ntnqCKdzv-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
